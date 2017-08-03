@@ -19,6 +19,8 @@ Binary:
 The all unary methods are overloaded - can be mixed beetwen rationals and big rationals.   
  
 The BigRational class has additional constructors  (<BigInteger, BigInteger> | <String, String>), obviously, to     
-allow to create big number.
+allow to create big number.    
+There are toDecimal methods, to print Rational (and BigRational) as a decimal; it prints exact result if possible or     
+rounds to 128 bits in the case of infinite expansion.
 
 

@@ -1,5 +1,8 @@
 # Java-Rationals
-Rational and bigrational numbers implementation in Java
+copyleft by lion137
+Read also: https://lion137.blogspot.co.uk/2017/08/java-rational.html
+Rational and bigrational numbers implementation in Java.
+
 Constructors:    
 Rational r1 = new Rational(<long, long> | <long> | <String>)    
 As a string, for example "1.99999011", can be used   
